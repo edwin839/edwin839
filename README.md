@@ -1,10 +1,14 @@
-# 👋 Hola, soy Edwin Piña García
+<p align="center">
+  <img src="https://github.com/edwin839.png" width="140" height="140" style="border-radius:50%; border:3px solid #00ff88;" />
+</p>
 
-### Gerente de Sistemas (20+ años) → Full Stack Developer
+<h1 align="center">👋 Hola, soy Edwin Piña García</h1>
+
+<h3 align="center">Gerente de Sistemas (20+ años) → Full Stack Developer</h3>
 
 > 20+ años liderando infraestructura TI en Merka Comercializadora. Ahora construyo productos web que resuelven problemas reales de negocio. De mantener servidores 24/7 a crear productos que la gente usa.
 
-**Zapopan, Jalisco, México • Disponible para proyectos freelance y remoto**
+**📍 Zapopan, Jalisco, México • Disponible para proyectos freelance y remoto**
 
 ---
 
@@ -24,7 +28,7 @@
 
 **Backend / Aprendido:** `Python` `Flask` `Git` `GitHub Pages` `FormSubmit`
 
-**Infraestructura (20+ años):** `Windows Server` `Fortinet` `VLANs` `Hikvision` `PoE` `VPN` `NVR` `Backups` `Active Directory`
+**Infraestructura (20+ años):** `Windows Server` `Fortinet` `VLANs` `Hikvision` `PoE` `VPN` `NVR`
 
 **Próximamente:** `React` `Node.js` `Tailwind` `PostgreSQL` `Docker`
 
@@ -32,11 +36,11 @@
 
 ### 📌 Proyectos Destacados
 
-| Proyecto | Descripción | Stack | Link |
-|----------|-------------|-------|------|
-| **Portafolio Full Stack** | Mi portafolio que pasó de HTML estático a producto con leads reales | HTML, CSS, JS, FormSubmit | [Ver Live](https://edwin839.github.io/fullstack-cero-a-100/) |
-| **Migración Red Merka** | Rediseño total de red corporativa. Downtime -80% | Fortinet, VLANs, Windows Server | Privado |
-| **CCTV IP + Acceso Biométrico** | 32 cámaras IP + NVR + control de acceso 24/7 | Hikvision, PoE, VPN | Privado |
+| Proyecto | Descripción | Link |
+|----------|-------------|------|
+| **Portafolio Full Stack** | Mi portafolio con leads reales, typing y scroll reveal | [Ver Live](https://edwin839.github.io/fullstack-cero-a-100/) |
+| **Migración Red Merka** | Rediseño total, downtime -80% | Privado |
+| **CCTV IP + Acceso** | 32 cámaras IP + biométrico 24/7 | Privado |
 
 ---
 
@@ -49,12 +53,12 @@
 
 ### 🎯 Ruta Cero a Cien - Progreso
 
-- [x] **Día 1:** Estructura base HTML + deploy a GitHub Pages
-- [x] **Día 2:** Responsive PRO + Menú móvil + Modo oscuro + OG tags
-- [x] **Día 3:** Formulario real que manda correo + Typing effect + Scroll reveal + Hover interactions
-- [ ] **Día 4:** Perfil de GitHub PRO + README de repo PRO (HOY)
-- [ ] **Día 5:** JavaScript intermedio + LocalStorage
-- [ ] **Día 10:** Primer proyecto con Python Flask
+- [x] **Día 1:** Estructura base + deploy
+- [x] **Día 2:** Responsive PRO + Menú móvil + Modo oscuro
+- [x] **Día 3:** Formulario real + Typing + Scroll reveal + Hover
+- [x] **Día 4:** Perfil GitHub PRO + README PRO
+- [ ] **Día 5:** LocalStorage + JS intermedio
+- [ ] **Día 10:** Python Flask
 - [ ] **Día 30:** React + primer cliente
 
 ---
@@ -64,11 +68,7 @@
 [[Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://edwin839.github.io/fullstack-cero-a-100/)
 [[GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwin839)
 [[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwin839@gmail.com)
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin839)
 
 ---
 
 > **"De mantener infraestructura 24/7 a construir productos que la gente usa 24/7"**
-
-⭐️ Si te sirve mi ruta, deja una estrella en mi portafolio.
-
